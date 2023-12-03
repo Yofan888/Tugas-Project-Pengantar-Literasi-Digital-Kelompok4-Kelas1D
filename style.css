@@ -1,0 +1,34 @@
+.banner {
+ background: url("https://miro.medium.com/v2/resize:fit:1200/1*GSjek0C5eLKQeQh0Snlzdw.png") 
+ no-repeat center center; 
+ background-size: cover;
+ padding-top: 20%;
+ padding-bottom: 30%;
+ color: #fff;
+}
+.tim img {
+    width: 260px;
+    border: 10px solid #cccccc;
+
+}
+.team img{
+    width: 200px;
+    border: 10px solid #cccccc;
+}
+a.sosial{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+.Kontak{background: url("https://wallpaperaccess.com/full/1867010.jpg") 
+    no-repeat center center; 
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+
+}
